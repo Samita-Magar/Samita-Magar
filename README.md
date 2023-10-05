@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samita-Magar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in connecting with developers around the world!
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on Opensource JS Projects.
+- 📫 How to reach me on <a href="https://www.linkedin.com/in/samita-magar-64a149120/">linkedin</a>
 
 <!---
 Samita-Magar/Samita-Magar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
